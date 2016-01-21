@@ -5,4 +5,4 @@ This is the pinteresting sample application for [*One Month Rails](http://onemon
 by [Joshua Calderon] (http://mattangriffel.com)
 
 
-Deep Sea PHUX
+Deep Sea PHUX G$A
